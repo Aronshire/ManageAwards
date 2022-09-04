@@ -1,0 +1,41 @@
+{
+  "name": "manageawards",
+  "version": "0.0.1",
+  "description": "Create your giveaways with this bot.",
+  "main": "index.js",
+  "files": [
+    "src/"
+  ],
+  "scripts": {
+    "start": "node ./src/index.js",
+    "install": "npm install"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "giveaways",
+    "winner",
+    "framework",
+    "bot",
+    "discord-giveaways",
+    "discord giveaways",
+    "giveaway"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aronshire/ManageAwards.git"
+  },
+  "author": "Aronshire",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "discord-api-types": "^0.37.5",
+    "discord.js": "^14.3.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.5.4",
+    "ms": "^2.1.3"
+  },
+  "engines": {
+    "node": ">=16.6.0"
+  }
+}
