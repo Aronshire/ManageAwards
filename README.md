@@ -49,7 +49,7 @@ Commands work with Discord's slash (/) command system.
 ![image](https://user-images.githubusercontent.com/64329332/188336577-2ce33d29-28ee-45f6-899d-e3dd22fd3815.png)
 
 
-##Edit Giveaway Messages
+## Edit Giveaway Messages
 You can change the messages in the giveaway messages. For this, you can change the ```options.messages``` data in the ```./src/commands/giveaway.js``` file.
 
 **Example:**
