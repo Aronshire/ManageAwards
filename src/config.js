@@ -9,7 +9,7 @@ module.exports = {
         GatewayIntentBits.GuildMembers,
         GatewayIntentBits.GuildMessages,
     ],
-    databse: {
+    database: {
         url: "",
         options: {
             useNewUrlParser: true,
