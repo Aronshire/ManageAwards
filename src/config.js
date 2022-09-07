@@ -1,7 +1,7 @@
 const { GatewayIntentBits } = require('discord.js');
 
 module.exports = {
-    token: "e",
+    token: "",
     owners: [],
     developers: [],
     intents: [
