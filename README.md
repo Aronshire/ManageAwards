@@ -4,7 +4,7 @@ Create your giveaways with this bot.
 
 ## Installation
 - Clone github project.
-- Install dependencies for ```npm run install```
+- Install dependencies with ```npm run install```
 - Start for ```npm run start```
 
 ## Settings
