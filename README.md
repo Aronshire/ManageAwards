@@ -5,7 +5,7 @@ Create your giveaways with this bot.
 ## Installation
 - Clone github project.
 - Install dependencies with ```npm run install```
-- Start for ```npm run start```
+- Start with ```npm run start```
 
 ## Settings
 First of all, you have to make your own settings in order to use the bot. (Like entering Mongodb and Discord tokens)
